@@ -1,12 +1,12 @@
 {
-  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
+  "name": "𝗞𝗶𝗻𝗴𝗞𝗮𝘃𝗶-𝗠𝗗 ⚡👑",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "🔥 KingKavi-MD WhatsApp Bot\n\n🔥KingKavi-MD is a smart and powerful WhatsApp bot packed with awesome features!\n 🚀✨ Auto-Reply\n🤖 – Instant smart responses\n🎥 Media Downloader\n📥 – Save videos, images & audio\n😂 Fun & Games\n🎮 – Memes, stickers & more\n👑 Group Tools\n🔧 – Auto-welcome, anti-spam & admin controls\n🌎 Utility Features\n🛠️ – Weather, QR codes & more!💡 Elevate your WhatsApp experience with KingKavi-MD! 🔥",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-    "stop": "pm2 stop ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-    "restart": "pm2 restart ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝗞𝗶𝗻𝗴𝗞𝗮𝘃𝗶-𝗠𝗗 ⚡👑",
+    "stop": "pm2 stop 𝗞𝗶𝗻𝗴𝗞𝗮𝘃𝗶-𝗠𝗗 ⚡👑",
+    "restart": "pm2 restart 𝗞𝗶𝗻𝗴𝗞𝗮𝘃𝗶-𝗠𝗗 ⚡👑"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
