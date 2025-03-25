@@ -70,8 +70,6 @@ cmd(
     ▫️.song <text>
     ▫️.video <text>
     ▫️.fb <link>
-| *GROUP COMMANDS* |
-${menu.group}
 | *OWNER COMMANDS* |
     ▫️.restart
     ▫️.update
@@ -80,19 +78,17 @@ ${menu.group}
     ▫️.img <reply sticker>
     ▫️.tr <lang><text>
     ▫️.tts <text>
-| *SEARCH COMMANDS* |
-${menu.search}
 
 
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
+🥶𝐌𝐚𝐝𝐞 𝐛𝐲 KιиgKανι-MÐ ࿐🥶
 
-> ROBIN MENU MSG
+> KingKavi-MD MENU MSG
 `;
       await robin.sendMessage(
         from,
         {
           image: {
-            url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20menu.jpg",
+            url: "https://i.imghippo.com/files/RwHO8114gqs.webp",
           },
           caption: madeMenu,
         },
