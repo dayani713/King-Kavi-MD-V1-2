@@ -94,8 +94,7 @@ cmd(
 
 🔥 𝑴𝒂𝒅𝒆 𝒃𝒚 𝐊𝐢𝐧𝐠𝐊𝐚𝐯𝐢-𝐌𝐃 🔥
 
-> KingKavi-MD MENU MSG 😶‍🌫️
-`;
+> KingKavi-MD MENU MSG 😶‍🌫️`;
       await robin.sendMessage(
         from,
         {
